@@ -9,7 +9,7 @@
           <ul class="navbar-nav ms-auto">
             <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
             <li class="nav-item"><a class="nav-link" href="#">Movies</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">TV Shows</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">TV Showssss</a></li>
             <li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>
             <li class="nav-item"><a class="nav-link" href="#">Blog</a></li>
             <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
