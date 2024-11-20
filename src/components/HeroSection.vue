@@ -9,8 +9,8 @@
   <!-- Content for the banner, e.g., Movie Title, Buttons -->
     <div class="banner-content text-center text-white">
       <h1 class="francois-one-regular display-4">Venom: Let There Be Carnage</h1>
-      <p class="francois-one-regular lead">October, 2021</p>
-      <a href="#" class="btn btn-primary">Watch Now</a>
+      <p class="lato-font lead">October, 2021</p>
+      <a href="#" class="btn btn-light">Watch Now</a>
     </div>
   </div>
 </template>
@@ -30,8 +30,13 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');
 .francois-one-regular {
   font-family: "Francois One", sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
+.lato-font {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300; /* ใช้ 300 สำหรับฟอนต์บาง */
+  }
   .hero-section {
     background-image: url('@/assets/1595844471591.jpg');
     background-size: cover;
@@ -48,7 +53,11 @@ export default {
   height: 100%;
   width: 100%;
 }
-
+.btn{
+    background-color: rgb(182, 145, 255);
+    font-weight: bold;
+    border: rgb(182, 145, 255);
+  }
 .embed-responsive-item {
   width: 100%;
   height: 100%;

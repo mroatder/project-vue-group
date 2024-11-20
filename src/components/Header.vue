@@ -42,7 +42,7 @@
     margin-bottom: 30px;
   }
   .btn{
-    background-color: rgb(182, 145, 255);
+    background-color:  rgb(182, 145, 255);
     font-weight: bold;
   }
   .search-container {
