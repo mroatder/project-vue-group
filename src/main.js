@@ -3,6 +3,10 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap';
+
 import "bootstrap/dist/css/bootstrap.css" ;  // bootstrap 5 css
 import "bootstrap/dist/js/bootstrap.bundle.js" ;  // bootstrap 5 css
 
